@@ -1,7 +1,5 @@
 <template>
-  <div class="hello">
-    <h3>Installed CLI Plugins</h3>
-  </div>
+  <h1>My First Vue App</h1>
 </template>
 
 <script>
